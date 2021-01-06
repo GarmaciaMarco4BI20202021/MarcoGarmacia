@@ -1,1 +1,9 @@
+site_name: Marco_Garmacia
 
+nav:
+
+  - 'MD': 'index.md'
+  - 'Test': 'test.txt'
+  
+theme:
+  name: readthedocs
